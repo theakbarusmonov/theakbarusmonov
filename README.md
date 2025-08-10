@@ -23,3 +23,5 @@ the back-end and system feature side of projects ⚙️
 
 #
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theakbarusmonov&layout=pie)](https://github.com/theakbarusmonov/github-readme-stats)
